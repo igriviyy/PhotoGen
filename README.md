@@ -1,4 +1,4 @@
-# <img src="https://github.com/igriviyy/images/blob/main/camera.gif" height="28"> PhotoGen - Generator Of Non-Existent People
+# <img src="for README/readme_camera.gif" height="28"> PhotoGen - Generator Of Non-Existent People
 Easy-to-use script based on Python, OpenCV and DeepFace libraries, <br>
 which generates images of non-existent people using <a href="https://thispersondoesnotexist.com" target="_blank">Neural Network</a>. <br>
 
